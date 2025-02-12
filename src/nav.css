@@ -1,0 +1,9 @@
+.nav{
+    display:flex;
+    flex-direction:row;
+    margin:10px;
+    padding:10px;
+}
+.navdesign{
+    padding:10px;
+}
